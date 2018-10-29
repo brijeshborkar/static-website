@@ -1,0 +1,35 @@
+body {
+  background:-webkit-linear-gradient(lightblue,lightgreen);
+}
+.mainpage{
+  font-family:Impact,Charcoal,sans-serif;
+  font-size:30px;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.explore_button{
+  width:150px;
+  height:50px;
+  list-style:none;
+}
+.explore{
+  line-height: 50px;
+  text-decoration: none;
+  display:block;
+  color:white;
+
+}
+.explore:hover{
+
+  background-color: #2F5B2F;
+  /*border-radius:15px 15px 15px 15px;*/
+  -webkit-transition: 0.2s linear;
+  color:white;
+
+
+
+}
+.x{
+  background-color: #5EC15C;
+  /*border-radius:15px 15px 15px 15px;*/
+
+}
