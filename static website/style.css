@@ -1,5 +1,5 @@
-body {
-  background:-webkit-linear-gradient(lightblue,lightgreen);
+.index_body {
+  background:-webkit-linear-gradient(#EBF165,#F14126);
 }
 .mainpage{
   font-family:Impact,Charcoal,sans-serif;
@@ -7,29 +7,72 @@ body {
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 .explore_button{
-  width:150px;
+  width:200px;
   height:50px;
   list-style:none;
+
 }
 .explore{
   line-height: 50px;
   text-decoration: none;
   display:block;
-  color:white;
+  color:#C7EED6;
+  text-shadow:2px 2px 5px red;
+
+
+
 
 }
 .explore:hover{
+  text-decoration: none;
+  border-radius:10px;
+  color:#C7EED6;
 
-  background-color: #2F5B2F;
-  /*border-radius:15px 15px 15px 15px;*/
-  -webkit-transition: 0.2s linear;
-  color:white;
 
 
 
 }
 .x{
-  background-color: #5EC15C;
-  /*border-radius:15px 15px 15px 15px;*/
+  background-color: #4FCE81;
+  border-radius:10px;
+}
+.x:hover{
+      background-color: #5EC15C;
+      -webkit-transition: 0.2s ease-in-out;
+}
+.title{
+  letter-spacing: 5px;
+  text-shadow: 1px 1px 0 black,
+                  2px 2px 0 black;
+  color:#52C4F0;
+  font-size: 80px;
+  }
+h3{
+  background-color: red;
+}
+.state{
+  padding:10px;
+}
+.karnataka_body{
+  background-color: red;
+}
+.homepage_body{
+  background:-webkit-linear-gradient(orange,white,green);
+  background-repeat: no-repeat;
+    background-size: 1550px 700px;
+}
+.homepage{
+  width:500px;
+  height:300px;
 
+  /*border:1px solid red;
+ margin-left: 200px;*/
+ margin-top:76px;
+ background:-webkit-radial-gradient(lightblue,lightcyan);
+ border-radius : 20px;
+ opacity : 0.9;
+
+}
+.state{
+  padding:3px 25px 7px 25px;
 }
