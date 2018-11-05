@@ -5,21 +5,29 @@
 .karPlaces{
   width:730px;
   height:380px;
-  background-color: yellow;
+  background-color: #BFBBBB;
   margin-left:-15px;
+  margin-top : -120px;
 
 
 }
+.karPlacesText{
+height : 350px;
+width : 300px;
+margin-left : 400px;
+background-color : #BFBBBB;
+}
 
 .places{
-  margin-top: -120px;
-  margin-left:10px;
+  margin-top: -320px;
+  margin-left:30px;
   width:300px;
   height:300px;
+  line-height: 300px;
 
-  background-color: #88E47C;
+  background-color: #1F3BC4;
   text-align: center;
-  border-radius:0px 0px 0px 0px;
+  border-radius:20px;
 
 }
 
@@ -31,12 +39,14 @@
   font-size: 30px;
   font-family:cursive;
   display:block;
+  border-radius:20px;
+
 }
 .places_info:hover{
   text-decoration: none;
   color:white;
-  background-color: #60CF85;
-  border-radius:0px 0px 0px 0px;
+  background-color: #101F6E;
+  border-radius:20px;
   -webkit-transition:0.1s ease-in-out;
 }
 
@@ -44,19 +54,26 @@
 .karFood{
   width:806px;
   height:380px;
-  background-color: lightblue;
+  background-color: #898686;
   margin-left:715px;
-  margin-top: -100px;
+  margin-top: -380px;
+
+}
+.karFoodText{
+  height : 350px;
+  width : 300px;
+  margin-left : 400px;
+  background-color :#898686;
 
 }
 
 .food{
-  margin-left:10px;
-  margin-top: -380px;
+  margin-left:30px;
+  margin-top: -320px;
   width:300px;
   height:300px;
-  background-color: #E4795F;
-  border-radius:0px 0px 0px 0px;
+  background-color: #D72E39;
+  border-radius:20px;
   text-align: center;
 
 }
@@ -66,13 +83,14 @@
   font-size: 30px;
   font-family:cursive;
   display:block;
+  border-radius:20px;
 
 }
 .food_info:hover{
   text-decoration: none;
   color:white;
-  background-color: #F1573C;
-  border-radius:0px 0px 0px 0px;
+  background-color: #86141C;
+  border-radius:20px;
   -webkit-transition:0.1s ease-in-out;
 }
 
@@ -80,21 +98,26 @@
 .karCulture{
   width:730px;
   height:380px;
-  background-color: red;
+  background-color: #898686;
   margin-left:-15px;
- margin-top : -30px;
+ margin-top : 0px;
+}
+.karCultureText{
+  height : 350px;
+  width : 300px;
+  margin-left : 400px;
+  background-color : #898686;
+
 }
 
 .culture{
-  margin-left:10px;
-  margin-top: 20px;
+  margin-left:30px;
+  margin-top: -320px;
   width:300px;
   height:300px;
-  width:300px;
-  height:300px;
-  background-color: #7B89F1;
+  background-color: #B4B920;
   text-align: center;
-  border-radius:0px 0px 0px 0px;
+  border-radius:20px;
 }
 .culture_info{
   line-height: 300px;
@@ -102,12 +125,14 @@
   font-size: 30px;
   font-family:cursive;
   display:block;
+  border-radius:20px;
+
 }
 .culture_info:hover{
   text-decoration: none;
   color:white;
-  background-color: #597AE0;
-  border-radius:0px 0px 0px 0px;
+  background-color: #616413;
+  border-radius:20px;
   -webkit-transition:0.1s ease-in-out;
 }
 
@@ -115,19 +140,26 @@
 .karPeople{
   width:806px;
   height:380px;
-  background-color: pink;
+  background-color: #BFBBBB;
   margin-left:715px;
- margin-top : -50px;
+ margin-top : -380px;
+}
+.karPeopleText{
+  height : 350px;
+  width : 300px;
+  margin-left : 400px;
+  background-color : #BFBBBB;
+
 }
 
 .people{
-  margin-left:10px;
-  margin-top:-380px;
+  margin-left:30px;
+  margin-top:-320px;
   width:300px;
   height:300px;
-  background-color: #F17BEB;
+  background-color: #3AC73A;
   text-align: center;
-  border-radius:0px 0px 0px  0px;
+  border-radius:20px;
 }
 .people_info{
 line-height: 300px;
@@ -135,11 +167,13 @@ color:black;
 font-size: 30px;
 font-family:cursive;
 display:block;
+border-radius:20px;
+
 }
 .people_info:hover{
   text-decoration: none;
   color:white;
-  background-color: #E059D5;
-  border-radius:0px 0px 0px  0px;
+  background-color: #206C20;
+  border-radius:20px;
   -webkit-transition:0.1s ease-in-out;
 }

@@ -1,0 +1,452 @@
+.karBodyPlace{
+  background-color: #F7EEEC;
+}
+
+.hillStations{
+  width:100%;
+  height:50px;
+  background-color: lightblue;
+  text-align:center;
+  border-radius: 10px;
+
+}
+.hillStations h2 {
+  font-family:inherit;
+  line-height: 50px;
+  text-decoration: none;
+  color:black;
+
+}
+.nandiHills{
+  width:100%;
+  height:400px;
+  background-color: #F5DFFA;
+  border-radius: 10px;
+
+}
+.kudremukh{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.agumbe{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.mullayanagiri{
+  width:100%;
+  height:400px;
+  background-color: #C7E4F6;
+  border-radius: 10px;
+}
+.madikeri{
+  width:100%;
+  height:400px;
+  background-color: #F6C7D6;
+  border-radius: 10px;
+}
+.hornadu{
+  width:100%;
+  height:400px;
+  background-color: #F5F6C7;
+  border-radius: 10px;
+}
+
+.pubs {
+  width:100%;
+  height:50px;
+  background-color: lightpink;
+  text-align:center;
+  border-radius: 10px;
+
+}
+.pubs h2{
+  font-family:inherit;
+  line-height: 50px;
+  text-decoration: none;
+  color:black;
+}
+.nandiimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.agumbe img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.kudremukh img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.hornaduimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.mullayanagiri img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.madikeri img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.nandidis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+.hornadudis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.madikeridis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.mullayanagiridis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.kudremukhdis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+
+.agumbedis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+/*############################################################### WATERFALLS######################################################################################*/
+.waterFalls{
+  width:100%;
+  height:50px;
+  background-color: lightblue;
+  text-align:center;
+  border-radius: 10px;
+
+}
+.waterFalls h2 {
+  font-family:inherit;
+  line-height: 50px;
+  text-decoration: none;
+  color:black;
+
+}
+.jogfalls{
+  width:100%;
+  height:400px;
+  background-color: #F5DFFA;
+  border-radius: 10px;
+
+}
+.shivanasamudra{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.abbey{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.iruppu{
+  width:100%;
+  height:400px;
+  background-color: #C7E4F6;
+  border-radius: 10px;
+}
+.madikeri{
+  width:100%;
+  height:400px;
+  background-color: #F6C7D6;
+  border-radius: 10px;
+}
+.jhari{
+  width:100%;
+  height:400px;
+  background-color: #F5F6C7;
+  border-radius: 10px;
+}
+.jogfallsimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.abbey img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.shivanasamudra img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.jhariimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.iruppu img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.madikeri img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.jogfallsdis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+.jharidis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.madikeridis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.iruppudis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.shivanasamudradis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+
+.abbeydis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+/*###############################################################WILDLIFE SANCTUARIES######################################################################################*/
+.wildlife{
+  width:100%;
+  height:50px;
+  background-color: lightblue;
+  text-align:center;
+  border-radius: 10px;
+
+}
+.wildlife h2 {
+  font-family:inherit;
+  line-height: 50px;
+  text-decoration: none;
+  color:black;
+
+}
+.nagarahole{
+  width:100%;
+  height:400px;
+  background-color: #F5DFFA;
+  border-radius: 10px;
+
+}
+.bandipur{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.dandeli{
+  width:100%;
+  height:400px;
+  background-color: #C0FBE8;
+  border-radius: 10px;
+}
+.bannerghatta {
+  width:100%;
+  height:400px;
+  background-color: #C7E4F6;
+  border-radius: 10px;
+}
+.madikeri{
+  width:100%;
+  height:400px;
+  background-color: #F6C7D6;
+  border-radius: 10px;
+}
+.ranganthittu{
+  width:100%;
+  height:400px;
+  background-color: #F5F6C7;
+  border-radius: 10px;
+}
+
+.nagaraholeimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.dandeli img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.bandipur img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.ranganthittuimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.bannerghatta  img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.madikeri img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.nagaraholedis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+.ranganthittudis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.madikeridis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.bannerghattadis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+.bandipurdis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
+
+
+.dandelidis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+
+}
