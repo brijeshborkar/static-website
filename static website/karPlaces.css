@@ -18,29 +18,43 @@
 
 }
 .nandiHills{
+  margin-top:10px;
   width:100%;
   height:400px;
-  background-color: #F5DFFA;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 
 }
 .kudremukh{
+  margin-top:10px;
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .agumbe{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .mullayanagiri{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C7E4F6;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .madikeri{
   width:100%;
@@ -49,26 +63,16 @@
   border-radius: 10px;
 }
 .hornadu{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #F5F6C7;
-  border-radius: 10px;
-}
-
-.pubs {
-  width:100%;
-  height:50px;
-  background-color: lightpink;
-  text-align:center;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
 
 }
-.pubs h2{
-  font-family:inherit;
-  line-height: 50px;
-  text-decoration: none;
-  color:black;
-}
+
 .nandiimg img{
   margin-top : 20px;
   margin-left:20px;
@@ -76,6 +80,8 @@
   height:360px;
   border-radius: 5px;
 }
+
+
 
 .agumbe img{
   margin-top : 20px;
@@ -120,6 +126,7 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
 
 }
 
@@ -135,6 +142,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .mullayanagiridis{
@@ -142,6 +151,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .kudremukhdis{
@@ -149,6 +160,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -158,6 +171,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -178,29 +193,45 @@
 
 }
 .jogfalls{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #F5DFFA;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 
 }
 .shivanasamudra{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .abbey{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .iruppu{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C7E4F6;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .madikeri{
   width:100%;
@@ -209,10 +240,14 @@
   border-radius: 10px;
 }
 .jhari{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #F5F6C7;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .jogfallsimg img{
   margin-top : 20px;
@@ -265,6 +300,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -273,6 +310,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .madikeridis{
@@ -280,6 +319,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .iruppudis{
@@ -294,6 +335,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -303,6 +346,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 /*###############################################################WILDLIFE SANCTUARIES######################################################################################*/
@@ -322,29 +367,45 @@
 
 }
 .nagarahole{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #F5DFFA;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 
 }
 .bandipur{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .dandeli{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C0FBE8;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .bannerghatta {
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #C7E4F6;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 .madikeri{
   width:100%;
@@ -353,10 +414,14 @@
   border-radius: 10px;
 }
 .ranganthittu{
+  margin-top:10px;
+
   width:100%;
   height:400px;
-  background-color: #F5F6C7;
-  border-radius: 10px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
 }
 
 .nagaraholeimg img{
@@ -410,6 +475,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -418,6 +485,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .madikeridis{
@@ -432,6 +501,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 .bandipurdis{
@@ -439,6 +510,8 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
 
 }
 
@@ -448,5 +521,348 @@
   width : 1000px;
   margin-left : 470px;
   margin-top : -360px;
+  text-align:justify;
+
+
+}
+/*######################################################################RELIGIOUS#################################################################*/
+.religious{
+  width:100%;
+  height:50px;
+  background-color: lightblue;
+  text-align:center;
+  border-radius: 10px;
+
+}
+.religious h2 {
+  font-family:inherit;
+  line-height: 50px;
+  text-decoration: none;
+  color:black;
+
+}
+.virupaksha{
+  margin-top:10px;
+
+  width:100%;
+  height:400px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+
+}
+.chennakeshava{
+  margin-top:10px;
+
+  width:100%;
+  height:400px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+.jamimasjid{
+  margin-top:10px;
+
+  width:100%;
+  height:400px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+.philomena{
+  margin-top:10px;
+
+  width:100%;
+  height:400px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+.madikeri{
+  width:100%;
+  height:400px;
+  background-color: #F6C7D6;
+  border-radius: 10px;
+}
+.gurunanak{
+  margin-top:10px;
+
+  width:100%;
+  height:400px;
+  background-color: #F3F5F5;
+  border-radius: 2px;
+  box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+
+.virupakshaimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+
+
+.jamimasjid img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.chennakeshava img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.gurunanakimg img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+.philomena img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.madikeri img{
+  margin-top : 20px;
+  margin-left:20px;
+  width:400px;
+  height:360px;
+  border-radius: 5px;
+}
+
+.virupakshadis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+
+}
+
+.gurunanakdis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+}
+.madikeridis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+}
+.philomenadis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+}
+.chennakeshavadis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+}
+
+
+.jamimasjiddis{
+  height: 360px;
+  width : 1000px;
+  margin-left : 470px;
+  margin-top : -360px;
+  text-align:justify;
+
+}
+/*################################################################BEACHES##########################################################################*/
+
+
+.beaches {
+    width: 100%;
+    height: 50px;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.beaches h2 {
+    font-family: inherit;
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.gokarnabeach {
+  margin-top:10px;
+
+    width: 100%;
+    height: 400px;
+    background-color: #F3F5F5;
+    border-radius: 2px;
+    box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+
+}
+
+.murudeshwarbeach {
+  margin-top:10px;
+
+    width: 100%;
+    height: 400px;
+    background-color: #F3F5F5;
+    border-radius: 2px;
+    box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+
+.malpebeach {
+  margin-top:10px;
+
+    width: 100%;
+    height: 400px;
+    background-color: #F3F5F5;
+    border-radius: 2px;
+    box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+
+.karwarbeach {
+  margin-top:10px;
+
+    width: 100%;
+    height: 400px;
+    background-color: #F3F5F5;
+    border-radius: 2px;
+    box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+
+.maravanthebeach {
+  margin-top:10px;
+
+    width: 100%;
+    height: 400px;
+    background-color: #F3F5F5;
+    border-radius: 2px;
+    box-shadow: 1px 3px 2px 2px #D1D3D1;
+
+}
+
+.gokarnabeachimg img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+}
+
+.malpebeach img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+}
+
+.murudeshwarbeachimg img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+}
+
+
+.karwarbeach img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+}
+
+.maravanthebeach img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 360px;
+    border-radius: 5px;
+}
+
+.gokarnabeachdis {
+    height: 360px;
+    width: 1000px;
+    margin-left: 470px;
+    margin-top: -360px;
+    text-align:justify;
+
+
+}
+
+.maravanthebeachdis {
+    height: 360px;
+    width: 1000px;
+    margin-left: 470px;
+    margin-top: -360px;
+    text-align:justify;
+
+
+}
+
+.karwarbeachdis {
+    height: 360px;
+    width: 1000px;
+    margin-left: 470px;
+    margin-top: -360px;
+    text-align:justify;
+
+
+}
+
+.murudeshwarbeachdis {
+    height: 360px;
+    width: 1000px;
+    margin-left: 470px;
+    margin-top: -360px;
+    text-align:justify;
+
+
+}
+
+
+.malpebeachdis {
+    height: 360px;
+    width: 1000px;
+    margin-left: 470px;
+    margin-top: -360px;
+    text-align:justify;
+
 
 }
